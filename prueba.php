@@ -14,10 +14,10 @@ function imprime() {
 	$Num = 44;
 	$Nombre = "Mario";
 
-	f (true) {
-		print("hola mundo");
+	if (true) {
+		print("hola mundo");pppp
 	}
-
+	
  ?>
 </body>
 </html>
